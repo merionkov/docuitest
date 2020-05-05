@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">DocUI Test</string>
+    <string name="firstProviderName">First provider</string>
+    <string name="secondProviderName">Second provider</string>
+    <string name="btnLaunchText">Launch</string>
+</resources>
