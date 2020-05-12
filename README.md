@@ -21,3 +21,5 @@ I guess the problem is in the
  (maps unique package to single handler).
 
 You can download already built apk [here](https://drive.google.com/file/d/1PnF6YQ2jtoKpKnqWwLe0nQ0oIMSGKkRO/view?usp=sharing).
+
+[Issue in Google Issue Tracker.](https://issuetracker.google.com/issues/156159498)
